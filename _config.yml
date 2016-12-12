@@ -6,9 +6,9 @@ highlighter:      pygments
 permalink:        pretty
 
 # Setup
-title:            Spider Unicorn Blog
+title:            More Heat Than Light
 tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+description:      'Stumbles and falls through .NET Core and the modern web'
 url:              http://hyde.getpoole.com
 baseurl:          /
 
@@ -17,9 +17,6 @@ author:
   url:            https://spiderunicorn.github.io
 
 paginate:         5
-
-# Custom vars
-version:          2.1.0
 
 # Gems
 gems: [jekyll-paginate, jekyll-gist]
